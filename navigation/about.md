@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have NOT had permanent residence.
+Here are some places I have been to, I have only had permanent residence in San Diego, California.
 
 <comment>
 Flags are made using Wikipedia images
@@ -61,9 +61,9 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
-        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Hi", "description": "India-Where my parents are from, I have visited a few times."},
+        {"flag": "f/f7/Flag_of_Mexico.svg", "greeting": "I love tacos and beaches.", "description": "I have only been here once but I want to go again."},
+        {"flag": "6/66/Flag_of_Nevada.svg", "greeting": "Aloha", "description": "Vegas is a fun city, I have been there quite a few times."},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -97,22 +97,25 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life
+### Journey through Life and Info
 
 Here is what I did at those places
 
-- Lots of Elementary School at Del Sur.
-- 🏫 Middle school at Oak Valley.
-- 🎓 Del Norte High school currently 10th grader.
-- I am unemployed right now.
+- Lots of Elementary School at Del Sur, in San Diego.
+- 🏫 Middle school at Oak Valley, in San Diego.
+- 🎓 Del Norte High school, currently 10th grader, in San Diego.
+- I met most of my extended family and grandparents in India. 
+- When I went on a cruise in 5th grade we stopped at Mexico and went on the only highway and discovered Taco Bell does not exist there, crazy stuff and I went to a huge market which was pretty cool. 
+- I have been to many colleges like Stanford, Caltech, USC, UCSD, mainly for Science Olympiad competitions. 
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me, as for many others, revolves around family and faith and friends.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- I do not know much about my family history, I just know my dad grew up in Mumbai and my mom grew up in a state called Bihar.
+- My nuclear family is me, my sister who is 4 years younger than me, my mom, and my dad.
+- The gallery of pics has some of me and my hobbies and other stuff. 
+- I like STEM and have competed in many Science Olympiad competitions.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
