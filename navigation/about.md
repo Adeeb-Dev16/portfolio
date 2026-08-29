@@ -5,9 +5,9 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## What's up nerds!
 
-Here are some places I have been to, I have only had permanent residence in San Diego, California.
+Here are some places I have been to, I have only had permanent residence in San Diego, California. This page has some info about me.
 
 <comment>
 Flags are made using Wikipedia images
@@ -114,23 +114,15 @@ Everything for me, as for many others, revolves around family and faith and frie
 
 - I do not know much about my family history, I just know my dad grew up in Mumbai and my mom grew up in a state called Bihar.
 - My nuclear family is me, my sister who is 4 years younger than me, my mom, and my dad.
-- The gallery of pics has some of me and my hobbies and other stuff. 
-- I like STEM and have competed in many Science Olympiad competitions.
+- The gallery of pics has some of me and my hobbies and other stuff like 3d modeling. 
+- I like STEM and have competed in many Science Olympiad competitions, the photo with many people are my teammates.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/about/scioly.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/myself.jpeg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/chess.png" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/2048.png" alt="Image 4">
 </div>
