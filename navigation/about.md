@@ -121,7 +121,7 @@ Everything for me, as for many others, revolves around family and faith and frie
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/scioly.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/scioly.png" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/myself.jpeg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/chess.png" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/2048.png" alt="Image 4">
