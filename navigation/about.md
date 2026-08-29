@@ -61,9 +61,9 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "4/41/Flag_of_India.svg", "greeting": "Hi", "description": "India-Where my parents are from, I have visited a few times."},
-        {"flag": "f/f7/Flag_of_Mexico.svg", "greeting": "I love tacos and beaches.", "description": "I have only been here once but I want to go again."},
-        {"flag": "6/66/Flag_of_Nevada.svg", "greeting": "Aloha", "description": "Vegas is a fun city, I have been there quite a few times."},
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Lowkey forgetting details.", "description": "India-Where my parents are from, I have visited a few times."},
+        {"flag": "f/fc/Flag_of_Mexico.svg", "greeting": "I love tacos and beaches.", "description": "I have only been here once but I want to go again."},
+        {"flag": "f/f1/Flag_of_Nevada.svg", "greeting": "Wassup", "description": "Vegas is a fun city, I have been there quite a few times."},
     ];
 
     // 3a. Consider how to update style count for size of container
