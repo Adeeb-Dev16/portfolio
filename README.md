@@ -101,14 +101,13 @@ cd portfolio
 Add Open Coding Society as an `upstream` remote once, then periodically merge updates.
 
 ```bash
-# from your repository root
+# from your repository root, do this once
 git remote add upstream https://github.com/open-coding-society/portfolio.git
 git remote -v
 
-# get latest template updates
+# get latest template updates, do this periodically as instructed
 git fetch upstream
-git checkout main
-git merge upstream/main
+git merge upstream/main --allow-unrelated-histories
 
 # publish merged updates to your repo
 git push origin main
