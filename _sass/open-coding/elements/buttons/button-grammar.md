@@ -47,15 +47,6 @@ Example:
 - `ocs__btn medium alert-red fill`
 
 ## Compatibility Notes
-<<<<<<< HEAD
-Legacy aliases still compile:
-- `ocs__btn--alert-red`
-- `ocs__btn--alert-yellow`
-- `ocs__btn--alert-green`
-- `ocs__btn--alert-fill`
-
-New code should prefer utility grammar above.
-=======
 Legacy `ocs__btn--*` modifier aliases still compile.
 New code should prefer utility grammar above.
 
@@ -126,4 +117,3 @@ JavaScript must keep `aria-pressed` synchronized with `is-selected`, announce re
     CPU socket
 </button>
 ```
->>>>>>> upstream/main

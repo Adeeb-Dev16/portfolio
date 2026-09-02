@@ -55,24 +55,20 @@ search_exclude: true
       </p>
       <p>
         <label>
-<<<<<<< HEAD
-          Password:
-          <input type="password" name="signupPassword" id="signupPassword" required>
-=======
           Email:
           <input type="email" name="email" id="email" required>
->>>>>>> upstream/main
         </label>
       </p>
       <p>
         <label>
-<<<<<<< HEAD
           <input type="checkbox" name="kasmNeeded" id="kasmNeeded">
           Kasm Server Needed
-=======
+        </label>
+      </p>
+      <p>
+        <label>
           Password:
           <input type="password" name="signupPassword" id="signupPassword" required>
->>>>>>> upstream/main
         </label>
       </p>
       <p>
@@ -84,7 +80,7 @@ search_exclude: true
 </div>
 
 <script type="module">
-<<<<<<< HEAD
+/*
   import { javaURI } from '{{ site.baseurl }}/assets/js/api/config.js';
   import { pythonURI } from '{{ site.baseurl }}/assets/js/api/config.js';
 
@@ -157,7 +153,7 @@ search_exclude: true
         document.getElementById("signupMessage").innerText = "Error: " + error.message;
         console.error('Error during signup:', error);
       });
-=======
+*/
   import { javaURI, pythonURI, fetchOptions } from '{{ site.baseurl }}/assets/js/api/config.js';
 
   // Sign up function to handle form submission
@@ -227,6 +223,5 @@ search_exclude: true
       signupMessage.innerText = "Sign up failed: " + error.message;
       console.error("Error during signup:", error);
     }
->>>>>>> upstream/main
   };
 </script>
