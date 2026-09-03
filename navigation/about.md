@@ -5,7 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-## What's up nerds!
+## Hello nice to meet you!
 
 Here are some places I have been to, I have only had permanent residence in San Diego, California. This page has some info about me.
 
